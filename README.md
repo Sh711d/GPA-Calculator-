@@ -2,7 +2,8 @@
 
 A simple desktop GPA calculator built with PyQt5. Add your courses, credits, and grades to a table, and instantly calculate your semester GPA. Optionally, factor in your previous GPA and credits to get your cumulative GPA.
 
-## Screnshot
+
+## Screenshot
 
 https://github.com/user-attachments/assets/be9bd412-f515-459c-8b7a-1702ee3f0c0f
 
